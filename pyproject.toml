@@ -1,0 +1,6 @@
+[project]
+name = "Keiko the sudoku generator"
+version = "0.1.0"
+description = "Generate Sudoku puzzles and solutions as SVG files using QQWing"
+requires-python = ">=3.11"
+dependencies = []
